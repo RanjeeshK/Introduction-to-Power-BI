@@ -1,4 +1,4 @@
 # Introduction-to-Power-BI
 Power BI projects that I worked on for practice and learning purposes
-# # Attrition Rate of Company
+# Attrition Rate of Company
 This project has used a dataset of a company to create a HR Analysis dashboard to visualize the attrition rate of Employees under different KPIs.
